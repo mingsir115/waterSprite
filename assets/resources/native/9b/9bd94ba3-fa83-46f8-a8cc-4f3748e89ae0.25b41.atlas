@@ -1,0 +1,118 @@
+
+wenzi.png
+size: 872,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g01
+  rotate: false
+  xy: 2, 80
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+tishi_00000
+  rotate: false
+  xy: 647, 14
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+title1
+  rotate: true
+  xy: 825, 150
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+title10_00002
+  rotate: false
+  xy: 180, 194
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00004
+  rotate: false
+  xy: 180, 130
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00006
+  rotate: false
+  xy: 395, 194
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00008
+  rotate: false
+  xy: 395, 130
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00010
+  rotate: false
+  xy: 610, 194
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00012
+  rotate: false
+  xy: 610, 130
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00014
+  rotate: false
+  xy: 180, 66
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00016
+  rotate: false
+  xy: 395, 66
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00018
+  rotate: false
+  xy: 610, 66
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00020
+  rotate: false
+  xy: 2, 2
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00022
+  rotate: false
+  xy: 217, 2
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title10_00024
+  rotate: false
+  xy: 432, 2
+  size: 213, 62
+  orig: 213, 62
+  offset: 0, 0
+  index: -1
+title12
+  rotate: false
+  xy: 825, 211
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

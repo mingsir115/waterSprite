@@ -1,0 +1,41 @@
+
+bubbles.png
+size: 660,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dj-01b
+  rotate: false
+  xy: 566, 91
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+guanxuan
+  rotate: false
+  xy: 566, 175
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: false
+  xy: 566, 53
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sg01
+  rotate: false
+  xy: 2, 2
+  size: 280, 265
+  orig: 280, 265
+  offset: 0, 0
+  index: -1
+sg02
+  rotate: false
+  xy: 284, 2
+  size: 280, 265
+  orig: 280, 265
+  offset: 0, 0
+  index: -1
